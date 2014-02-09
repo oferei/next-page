@@ -1,0 +1,16 @@
+add up (rel=up?)
+add first & last
+support buttons (e.g., 4chan)
+allow user free text
+why does it work on yahoo search?  :/
+
+not supported:
+blog.ted.com (older/newer posts)
+techcrunch.com (next/previous page)
+tapuz.co.il/blog/net/userblog.aspx?foldername=mamaRei&skip=1 (<< äáà)
+amazon.com (next »)
+themarker.com (">", class="next")
+cobiansoft.se/forum (>; title="Next Page")
+nikib.co.il/?cat=22 (">")
+smittenkitchen.com (« Previous Page)
+etsy.com (Next Page)

@@ -1,0 +1,7 @@
+promo:
+  Small: 440x280 pixels (required)
+  Large: 920x680 pixels
+  Marquee: 1400x560 pixels
+
+screenshots:
+  1280x800 or 640x400 pixels
